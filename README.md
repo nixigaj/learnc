@@ -1,11 +1,9 @@
 <img align="left" alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="96" />
 
 # learnc
-I learn the C programming language maybe using a build system when appropriate.
+I learn the C programming language and other related software.
 
-##  General Info
-
-### Objectives
+## Objectives
 * Learning the C programming language
   * Language itself
   * GNU Compiler Collection
