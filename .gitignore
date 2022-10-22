@@ -53,3 +53,6 @@ dkms.conf
 
 # Visual Studio Code configuration files
 .vscode/
+
+# Build directory
+build/
